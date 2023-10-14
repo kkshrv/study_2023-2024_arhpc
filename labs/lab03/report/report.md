@@ -16,7 +16,7 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
+lot: false # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -76,7 +76,7 @@ header-includes:
 
 ![Обновление локального репозитория и компиляция шаблона](image/1.png){#fig:001 width=70%}
 
-Удостовреяюсь в успешной компиляции файлов (рис. @fig:002)
+Удостоверяюсь в успешной компиляции файлов (рис. @fig:002)
 
 ![Успешная компиляция файлов](image/2.png){#fig:002 width=70%}
 
